@@ -11,17 +11,17 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array (
-	'title' => 'Adico theme Bleu',
-	'description' => 'Theme Bleu ',
+	'title' => 'Adico theme Decouverte',
+	'description' => 'Theme Decouverte ',
 	'category' => 'misc',
 	'version' => '0.0.1',
-	'state' => 'stable',
+	'state' => 'beta',
 	'uploadfolder' => true,
 	'createDirs' => '',
 	'clearcacheonload' => true,
-	'author' => 'Yann Berton',
-	'author_email' => 'solutionsweb@adico.fr',
-	'author_company' => 'ADICO',
+	'author' => 'Yann Bogdanovic',
+	'author_email' => 'yann.bogdanovic@cdgfpt46.fr',
+	'author_company' => 'CDGFPT 46',
 	'constraints' => 
 	array (
 		'depends' => 
