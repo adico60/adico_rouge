@@ -11,11 +11,11 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array (
-	'title' => 'Adico theme Decouverte',
-	'description' => 'Theme Decouverte ',
+	'title' => 'Adico theme Rouge',
+	'description' => 'Theme Rouge ',
 	'category' => 'misc',
 	'version' => '0.0.1',
-	'state' => 'beta',
+	'state' => 'stable',
 	'uploadfolder' => true,
 	'createDirs' => '',
 	'clearcacheonload' => true,
